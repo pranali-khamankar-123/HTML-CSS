@@ -1,0 +1,19 @@
+@font-face
+{
+    font-family: "pranali";
+    src: url(Salt\ Debris.otf);
+}
+h1{
+    color: blue;
+    font-size: 30px;
+    text-align: start;
+    font-variant: small-caps;
+    font-family: "Pranali";
+
+}
+p{
+    text-align: end;
+    font-size: 25px;
+
+
+}
